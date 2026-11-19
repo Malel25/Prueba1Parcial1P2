@@ -1,0 +1,8 @@
+texto=
+hasta=
+extension=
+min=
+desde=
+ruta=
+max=
+profundidad=0
